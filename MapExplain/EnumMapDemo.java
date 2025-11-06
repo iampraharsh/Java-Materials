@@ -18,7 +18,7 @@ public class EnumMapDemo {
         map.put(Day.MONDAY, "Walk");
 
         System.out.println(Day.TUESDAY.ordinal()); // index no
-        String s = map.get(Day.TUESDAY); 
+        String s = map.get(Day.TUESDAY);
         System.out.println(map);
     }
 }
