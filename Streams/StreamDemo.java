@@ -55,6 +55,6 @@ public class StreamDemo {
                 .collect(Collectors.toList());
 
         System.out.println("First 10 numbers: " + collect.subList(0, 10));
-        
+
     }
 }
